@@ -536,6 +536,7 @@
 		<onup condition="Control.IsVisible(9027)">9020</onup>
 		<onup condition="Control.IsVisible(90010) + !Control.IsVisible(9027)">90010</onup>
 		<onup condition="!Control.IsVisible(90010) + Control.IsVisible(90020) + !Control.IsVisible(9027) + !Skin.HasSetting(centermainmenu)">90020</onup>
+		<onup condition="Control.IsVisible(5777)">5777</onup>
 		<ondown condition="String.IsEqual(Container(9000).ListItem.Property(hasSubmenu),True)">9001</ondown>
 		<ondown condition="!String.IsEqual(Container(9000).ListItem.Property(hasSubmenu),True) + Skin.HasSetting(centermainmenu) + Control.IsVisible(90020)">90020</ondown>
 		<onback condition="Skin.HasSetting(Home.Hide) + !Player.Playing">SetFocus(64)</onback>
@@ -816,6 +817,7 @@
 	</include>
 	<include name="HomeSearchButton">
 		<control type="button" id="9027">
+			<onup condition="Control.IsVisible(5777)">5777</onup>
 			<label></label>
 			<textoffsetx>0</textoffsetx>
 			<width>50</width>
@@ -1537,6 +1539,8 @@
 			<animation effect="fade" time="300">Visible</animation>
 			<animation effect="fade" start="100" end="0" time="200" condition="ControlGroup(90020).HasFocus">Conditional</animation>
 			<animation effect="slide" end="0,735" time="0" tween="cubic" easing="inout" condition="[Skin.HasSetting(centermainmenu) | String.IsEqual(Skin.String(MainMenu.Layout),vertical)]">Conditional</animation>
+			<!-- GTO Widget -->
+			<include condition="System.HasAddon(script.service.gto)">HomeRecentlyAddedGTO</include>    
 			<!-- NextRecording -->
 			<control type="group">
 				<animation effect="slide" end="0,120" time="0" condition="PVR.IsRecording">Conditional</animation>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <includes>
+	<include file="gto-widget.xml" />
 	<include file="Defaults.xml" />
 	<include file="Includes_Animations.xml" />
 	<include file="Includes_Backgrounds.xml" />
