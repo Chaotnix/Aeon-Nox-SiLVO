@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-07-23 11:29+0000\n"
-"Last-Translator: beatmasterRS <danysahne333@yahoo.de>\n"
+"PO-Revision-Date: 2021-10-01 08:30+0000\n"
+"Last-Translator: Kai Sommerfeld <kai.sommerfeld@gmx.com>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-aeon-nox-silvo/de_de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7.2\n"
+"X-Generator: Weblate 4.8\n"
 
 msgctxt "#31000"
 msgid "Directed by"
@@ -43,7 +43,7 @@ msgstr "Korrigiert"
 
 msgctxt "#31006"
 msgid "View Options"
-msgstr "Ansicht Optionen"
+msgstr "Ansichten-Optionen"
 
 msgctxt "#31007"
 msgid "Setup home"
@@ -203,7 +203,7 @@ msgstr "Ansichten: Volle Handlung | Info-Fenster: Zusammenfassung"
 
 msgctxt "#31046"
 msgid "SEEKING"
-msgstr "SUCHE"
+msgstr "SUCHLAUF"
 
 msgctxt "#31047"
 msgid "Set item icon"
@@ -315,7 +315,7 @@ msgstr "Menüpunkt verschieben"
 
 msgctxt "#31074"
 msgid "Choose item to swap places with"
-msgstr "Wähle ein Element zum tausch der Plätze aus"
+msgstr "Einen Eintrag zum Tausch der Plätze auswählen"
 
 msgctxt "#31075"
 msgid "No extra features available"
@@ -375,7 +375,7 @@ msgstr "BannerWand"
 
 msgctxt "#31089"
 msgid "Play item on startup"
-msgstr "Spiele Eintrag beim Programmstart"
+msgstr "Eintrag beim Programmstart wiedergeben"
 
 msgctxt "#31090"
 msgid "Seconds"
@@ -459,7 +459,7 @@ msgstr "Anzahl der ungesehenen Folgen"
 
 msgctxt "#31110"
 msgid "Colorbox Script provides the blurred images for the Music and Video info dialogs as well as the fullscreen music blurred background."
-msgstr ""
+msgstr "Das Skript Colorbox ermöglicht verschwommene Bilder für die Musik- und Video-Informationsanzeige und bei der Vollbild-Musikwiedergabe."
 
 msgctxt "#31111"
 msgid "Similar movies"
@@ -475,7 +475,7 @@ msgstr "Drehbuch von"
 
 msgctxt "#31114"
 msgid "More from"
-msgstr ""
+msgstr "Mehr von"
 
 msgctxt "#31115"
 msgid "Similar TV shows"
@@ -495,7 +495,7 @@ msgstr "Speicher für extrafanart Filme"
 
 msgctxt "#31119"
 msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
-msgstr "Zeige Filme von diesem Regisseur in deiner Datenbank an oder zeige OnlineInformationen von diesem Regisseur auf TMDb an"
+msgstr "Die in der Datenbank vorhandenen Filme dieses Regisseurs oder Online-Informationen zu ihm auf TMDb anzeigen?"
 
 msgctxt "#31120"
 msgid "TMDb"
@@ -523,11 +523,11 @@ msgstr "Zeige im Hintergrund \"Aktuell abgespielt\"-Visualisierung"
 
 msgctxt "#31126"
 msgid "Skin Helper Service adds extra information for the skin to display that is not normally available in Kodi."
-msgstr ""
+msgstr "Der Skin Helper-Dienst stellt Informationen für den Skin zum Anzeigen bereit, die normalerweise nicht in Kodi verfügbar sind."
 
 msgctxt "#31127"
 msgid "Enable Extended Info integration"
-msgstr ""
+msgstr "Integration erweiterter Informationen aktivieren"
 
 msgctxt "#31128"
 msgid "Channels View"
@@ -543,7 +543,7 @@ msgstr "Verwende \"Enigma2-style\" Kanal OSD"
 
 msgctxt "#31131"
 msgid "Guide Timeline View"
-msgstr ""
+msgstr "Programm-Guide-Zeitleistenansicht"
 
 msgctxt "#31132"
 msgid "Tuner:"
@@ -551,11 +551,11 @@ msgstr "Tuner:"
 
 msgctxt "#31133"
 msgid "Timeline channels-type:"
-msgstr "Timeline-Kanäle Typ"
+msgstr "Zeitleisten-Kanal-Typ:"
 
 msgctxt "#31134"
 msgid "Timeline view-type:"
-msgstr "Timeline-Ansicht-Typ"
+msgstr "Zeitleisten-Ansicht-Typ:"
 
 msgctxt "#31135"
 msgid "Infobar Options"
@@ -563,7 +563,7 @@ msgstr "Infobar Optionen"
 
 msgctxt "#31136"
 msgid "Infobar type:"
-msgstr "Infobar Typ"
+msgstr "Info-Leisten-Typ:"
 
 msgctxt "#31137"
 msgid "Hide encryption information"
@@ -611,7 +611,7 @@ msgstr "Ändere Bewertung"
 
 msgctxt "#31148"
 msgid "List local library items"
-msgstr "Zeige lokale Bibliotheksinhalte"
+msgstr "Lokale Bibliothekseinträge auflisten"
 
 msgctxt "#31149"
 msgid "Online information from TMDb"
@@ -635,7 +635,7 @@ msgstr "Deaktiviere Ansichten"
 
 msgctxt "#31154"
 msgid "Show Artist Slideshow when playing music"
-msgstr ""
+msgstr "Interpreten-Diashow bei Musikwiedergabe anzeigen"
 
 msgctxt "#31155"
 msgid "Widgets"
@@ -803,11 +803,11 @@ msgstr "Zeige verbleibende Zeit in Vollbild Info"
 
 msgctxt "#31196"
 msgid "Replace default with Extended Info (some features and extras (+) will be unavailable)"
-msgstr ""
+msgstr "Standardinformationen durch erweiterte Informationen ersetzen (einige Funktionen und Zusätze (+) werden nicht verfügbar sein)"
 
 msgctxt "#31197"
 msgid "Enable info rating (works with US Ratings only)"
-msgstr ""
+msgstr "Bewertungsinformationen aktivieren (funktioniert nur für US-Bewertungen)"
 
 msgctxt "#31198"
 msgid "This setting controls the appearance of cases when using Live Backgrounds"
@@ -1135,7 +1135,7 @@ msgstr "Sortierreihenfolge"
 
 msgctxt "#31279"
 msgid "Add-on status"
-msgstr "Add-on Status"
+msgstr "Addon-Status"
 
 msgctxt "#31280"
 msgid "Time & Date"
@@ -1295,7 +1295,7 @@ msgstr ""
 
 msgctxt "#31319"
 msgid "Due to recent updates it is [B]RECOMMENDED[/B] to reset the Main Menu. Certain issues may be resolved by re-setting up your widgets but if issues continue please reset the Main Menu. Press CANCEL to ignore this warning and continue."
-msgstr "Aufgrund von aktuellen Updates wird empfohlen das Hauptmenü zurückzusetzen. Einzelne Probleme können durch das Zurücksetzen der Widgets gelöst werden, Falls jedoch weiterhin Probleme bestehen, setze bitte das Hauptmenü zurück. Drücke ABBRUCH um diese Warnung zu ignorieren und fortzufahren."
+msgstr "Aufgrund von kürzlichen Aktualisierungen wird [B]EMPFOHLEN[/B], das Hauptmenü zurückzusetzen. Bestimmte Probleme können durch Neukonfigurieren der Widgets gelöst werden. Falls jedoch weiterhin Probleme bestehen, bitte das Hauptmenü zurücksetzen. ABBRUCH drücken, um diese Warnung zu ignorieren und fortzufahren."
 
 msgctxt "#31320"
 msgid "Last Logged In"
@@ -1671,7 +1671,7 @@ msgstr "Abschnitt auswählen"
 
 msgctxt "#31413"
 msgid "Local subtitle available"
-msgstr "Lokale Untertitel verfügbar"
+msgstr "Lokaler Untertitel verfügbar"
 
 msgctxt "#31414"
 msgid "Set the Main Theme color used throughout the skin."
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#31421"
 msgid "Select your Kodi user profile[CR]to login and continue"
-msgstr "Wählen Sie Ihr Kodi-Benutzerprofil[CR]zum Anmelden und Fortfahren aus"
+msgstr "Bitte Kodi-Benutzerprofil auswählen[CR]um fortzufahren"
 
 msgctxt "#31422"
 msgid "Customize the Widget Highlight color on the home screen."
@@ -1819,7 +1819,7 @@ msgstr "Speichern & Verlassen"
 
 msgctxt "#31450"
 msgid "  •  Open Settings "
-msgstr "  •  Einstellungen öffnen"
+msgstr "  •   Einstellungen öffnen "
 
 msgctxt "#31451"
 msgid "  •  Click to Install or Enable"
@@ -2361,6 +2361,10 @@ msgctxt "#31585"
 msgid "Most played songs"
 msgstr ""
 
+msgctxt "#31586"
+msgid "Prefer clean pause screen"
+msgstr ""
+
 msgctxt "#31601"
 msgid "Show discart in movie information"
 msgstr "Zeige Discart in Film Information"
@@ -2767,7 +2771,7 @@ msgstr "Niederschlagswahrscheinlichkeit"
 
 msgctxt "#31909"
 msgid "Fetching forecast info..."
-msgstr "Lade Wetterbericht..."
+msgstr "Vorhersagedaten werden abgerufen ..."
 
 msgctxt "#31910"
 msgid "Map & Alerts"
@@ -2859,11 +2863,11 @@ msgstr "Zeige Kurzfassung der Handlung in der Bibliotheksansicht und die Langfas
 
 msgctxt "#31933"
 msgid "Select an item to display on the left top of the main menu"
-msgstr "Wähle ein Element aus um es oben links im Hauptmenü anzuzeigen"
+msgstr "Einen Eintrag zum oben links im Hauptmenü anzeigen auswählen"
 
 msgctxt "#31935"
 msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
-msgstr "Den Platz mit einem anderen Menüelement tauschen. Öffnet ein Dialogfenster mit den vorhandenen Tauschmöglichkeiten."
+msgstr "Den Platz mit einem anderen Menüeintrag tauschen. Öffnet einen Dialog mit einer Liste Menueinträge zum Auswählen."
 
 msgctxt "#31937"
 msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
@@ -2899,7 +2903,7 @@ msgstr ""
 
 msgctxt "#31945"
 msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
-msgstr "Wechselt das Layout der Listen-Ansicht. \"Standard\" zeigt 7 Einträge mit zusätzlichen Informationen, \"Schlanke Liste\" ist eine reduziertere Ansicht mit 14 Einträgen."
+msgstr "Wechselt das Layout der Listen-Ansicht. Standard ist ein 7-EinträgeLayout mit zusätzlichen Informationen, \"Schlanke Liste\" ist ein 14-Einträge-Basic-Layout"
 
 msgctxt "#31950"
 msgid "WEATHER"
@@ -2923,7 +2927,7 @@ msgstr "FILME"
 
 msgctxt "#31955"
 msgid "TV SHOWS"
-msgstr "TV-SERIEN"
+msgstr "SERIEN"
 
 msgctxt "#31956"
 msgid "MUSIC"
@@ -2935,7 +2939,7 @@ msgstr "Apps"
 
 msgctxt "#31958"
 msgid "PLAY DISC"
-msgstr "DISK ABSPIELEN"
+msgstr "DISK WIEDERGEBEN"
 
 msgctxt "#31959"
 msgid "SYSTEM"
