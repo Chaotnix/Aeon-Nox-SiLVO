@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-10-26 09:30+0000\n"
+"PO-Revision-Date: 2021-11-10 09:30+0000\n"
 "Last-Translator: HansCR <h.vanek@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-aeon-nox-silvo/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.8.1\n"
 
 msgctxt "#31000"
 msgid "Directed by"
@@ -2199,7 +2199,7 @@ msgstr "roků"
 
 msgctxt "#31545"
 msgid "More tv shows featuring"
-msgstr ""
+msgstr "účinkující v dalších seriálech"
 
 msgctxt "#31546"
 msgid "Known for"
@@ -2311,7 +2311,7 @@ msgstr "Vyberte metodu zobrazování děje filmových sérií. Všechny děje fi
 
 msgctxt "#31573"
 msgid "Seasons falling"
-msgstr ""
+msgstr "Sezónní padání"
 
 msgctxt "#31574"
 msgid "Preferred plot for movie sets"
@@ -2364,6 +2364,10 @@ msgstr "Nejvíce hrané skladby"
 msgctxt "#31586"
 msgid "Prefer clean pause screen"
 msgstr "Preferovat prázdnou obrazovku pozastavení"
+
+msgctxt "#31587"
+msgid "Disable multi-search in library"
+msgstr "Zakázat vícečetné vyhledávání v knihovně"
 
 msgctxt "#31601"
 msgid "Show discart in movie information"
@@ -2740,7 +2744,7 @@ msgstr "Použijte toto nastavení pro přepsání umístění tlačítka Ukázky
 
 msgctxt "#31855"
 msgid "Enable this setting to replace the Default info with online info provided by the ExtendedInfo script. You can use the Aeon Nox SiLVO version or the Defaults provided by the script if you enable the option in the settings for ExtendedInfo."
-msgstr ""
+msgstr "Povolit toto nastavení pro nahrazení Výchozích informací online informacemi ze skriptu ExtendedInfo. Můžete použít Aeon Nox SILVO verzi nebo Výchozí nabídnuté skriptem, pokud povolíte možnost v nastavení pro ExtendedInfo."
 
 msgctxt "#31856"
 msgid "Use this to select the multi-fanart cycle speed skin wide."
